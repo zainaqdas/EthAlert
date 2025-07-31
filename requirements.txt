@@ -1,0 +1,5 @@
+ccxt
+pandas
+requests
+ta
+ta-lib-binary
