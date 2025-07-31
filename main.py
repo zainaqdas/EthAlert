@@ -5,8 +5,8 @@ import time
 from ta.momentum import RSIIndicator
 
 # --- Your Telegram bot info ---
-TELEGRAM_TOKEN = 'YOUR_BOT_TOKEN'
-CHAT_ID = 'YOUR_CHAT_ID'
+TELEGRAM_TOKEN = '8404669597:AAFc3Uf-01CQjR6ApIdRhM3mdGev0PWbL0I'
+CHAT_ID = '1315514463'
 
 def send_alert(msg):
     url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"
